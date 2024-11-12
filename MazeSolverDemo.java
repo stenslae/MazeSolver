@@ -1,4 +1,4 @@
-public class Program5Demo {
+public class MazeSolverDemo {
 
 	public static void main(String[] args) {
 		
